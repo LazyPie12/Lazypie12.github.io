@@ -1,1 +1,4 @@
 
+[submodule "themes/icarus"]
+	path = themes/icarus
+	url = https://github.com/LazyPie12/hexo-theme-icarus
